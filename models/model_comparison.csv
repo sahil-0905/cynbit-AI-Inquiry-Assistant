@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,Macro F1
+Logistic Regression,100.0,100.0,100.0,100.0
+Naive Bayes,100.0,100.0,100.0,100.0
+Linear SVM,100.0,100.0,100.0,100.0
